@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amanpreet Singh</h1>
 <h3 align="center">A passionate Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/AibXOtCbZgwChaOWcz/giphy.gif?cid=ecf05e479u9kjortpmf8z3twt7tdw6dfm5cqn609eiyfk7qg&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanbig&label=Profile%20views&color=0e75b6&style=flat" alt="amanbig" /> </p>
 
