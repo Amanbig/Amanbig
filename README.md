@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **amanpreetsinghjhiwant@outlook.com**
 
-- ⚡ Fun fact **Passionate about technology and its limitless possibilities 🚀**
+- ⚡**Passionate about technology and its limitless possibilities 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
