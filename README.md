@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amanpreet Singh</h1>
 <h3 align="center">A passionate Developer from India</h3>
-<img src="https://giphy.com/embed/AibXOtCbZgwChaOWcz" width="480" height="480" frameBorder="0" class="giphy-embed">
+
 📫 How to reach me **amanpreetsinghjhiwant@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
