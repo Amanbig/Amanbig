@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif" />
+  <img height="150" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif" />
 </div>
 
 <h3 align="left">About Me:</h3>
