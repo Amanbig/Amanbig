@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=amanbig&label=Profile%20views&color=0e75b6&style=flat" alt="amanbig" />
 </p>
 
-<div align="center">
-  <img height="150" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif" />
-</div>
-
 <h3 align="left">About Me:</h3>
 <p align="left">
   I'm a dedicated and enthusiastic software developer from India with a passion for creating innovative and impactful technology solutions. My journey in the tech world has been shaped by a strong foundation in various programming languages and frameworks, from web development to mobile app creation and game development. 
