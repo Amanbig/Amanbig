@@ -123,7 +123,7 @@
 </p>
 
 <div align="center">
-    <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanbig&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" height="150" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=amanbig&show_icons=true&locale=en&hide_border=false&theme=dracula" alt="GitHub Stats" height="150"  />
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amanbig&theme=dracula" alt="GitHub Streak" height="150" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=amanbig&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" height="150" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=amanbig&show_icons=true&locale=en&hide_border=false&theme=dracula" alt="GitHub Stats" height="150"  />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=amanbig&theme=dracula" alt="GitHub Streak" height="150" />
 </div>
