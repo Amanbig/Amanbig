@@ -14,6 +14,7 @@
   In addition to coding, I enjoy collaborating on diverse projects, participating in coding challenges, and continuously learning to stay ahead in the ever-evolving tech landscape. Feel free to connect with me to discuss potential collaborations or just to chat about the latest in tech!
 </p>
 
+
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://youtube.com/@beard-hv5qj?si=nJjPxEhrupNgVweI" target="blank">
@@ -37,6 +38,9 @@
   <a href="https://www.leetcode.com/co21308" target="blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
+  <a href="https://portfolio1-omega-one.vercel.app/" target="blank">
+  <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo" />
+</a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
