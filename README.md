@@ -13,7 +13,9 @@
 
   In addition to coding, I enjoy collaborating on diverse projects, participating in coding challenges, and continuously learning to stay ahead in the ever-evolving tech landscape. Feel free to connect with me to discuss potential collaborations or just to chat about the latest in tech!
 </p>
-
+<div align="center">
+<a href="https://gitroll.io/profile/unLPRyXJRQoNCs69oOUqi6bcC1ml1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/unLPRyXJRQoNCs69oOUqi6bcC1ml1" alt="GitRoll Profile Badge" width="700"/></a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
