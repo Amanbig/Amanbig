@@ -19,12 +19,6 @@ I'm currently diving deeper into:
 
 I thrive on solving complex problems and turning ideas into reality. Let’s connect and chat about tech!
 
-<div align="center">
-  <a href="https://gitroll.io/profile/unLPRyXJRQoNCs69oOUqi6bcC1ml1" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/unLPRyXJRQoNCs69oOUqi6bcC1ml1" alt="GitRoll Profile Badge" width="500" />
-  </a>
-</div>
-
 ## 🌐 Connect with Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/phibi2662)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanpreet-singh-9a1929211)
