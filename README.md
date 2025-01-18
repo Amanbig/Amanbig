@@ -14,6 +14,25 @@
   <img src="https://komarev.com/ghpvc/?username=Amanbig&label=Profile%20views&color=0e75b6&style=flat">
 </p>
 
+## 🎯 Professional Journey
+
+```typescript
+const myJourney = {
+  currentRole: "Full Stack Developer",
+  specialization: ["Web Development", "App development"],
+  dailyTools: ["VS Code", "Git", "Docker", "Postman"],
+  learning: ["Machine Learning & Data Science", "Game Developement"],
+  interests: ["Open Source", "Tech Innovation", "Problem Solving"]
+};
+```
+
+## 🎯 Current Focus
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,flutter,nodejs" /><br>
+  <b>Mastering Full Stack Development & AI Integration</b>
+</div>
+
 ## 💫 Quick Facts
 
 ```javascript
@@ -41,55 +60,6 @@ const aman = {
     funFact: "I debug with console.log and refuse to admit it!"
 };
 ```
-
-## 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Music Level</h3>
-      <div align="center">
-        <a href="https://github.com/Amanbig/music_level" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="100" alt="Music Level"/>
-        </a>
-        <p><strong>Tech Stack:</strong> Flutter, Dart, Appwrite, MusicGen, Gemini API</p>
-        <p>An innovative Android application that generates music from lyrics or topics, featuring cloud storage integration with Appwrite. Combines AI-powered music generation with user-friendly interface.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Jac Chat Bot</h3>
-      <div align="center">
-        <a href="https://github.com/Amanbig/medical_chat_bot" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" width="100" alt="Jac Chat Bot"/>
-        </a>
-        <p><strong>Tech Stack:</strong> Next.js, Framer Motion, Shadcn UI, FastAPI, Python, Groq API, Node.js</p>
-        <p>Modern AI chatbot integration for Chandigarh College Counselling Website (JAC). Features real-time interactions and dynamic user interface with Framer Motion animations.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Meetings Summarizer</h3>
-      <div align="center">
-        <a href="https://github.com/Amanbig/meetings_app" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="100" alt="Meetings Summarizer"/>
-        </a>
-        <p><strong>Tech Stack:</strong> Next.js, Shadcn UI, FastAPI, Python, Groq API, Node.js</p>
-        <p>Advanced meeting analysis tool that transcribes video/audio content, generates summaries, enables contextual Q&A, and converts summaries to audio format. Perfect for efficient meeting documentation.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Gem AI App</h3>
-      <div align="center">
-        <a href="https://github.com/Amanbig/Gemini_app" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="100" alt="Gem AI App"/>
-        </a>
-        <p><strong>Tech Stack:</strong> Dart, Flutter, Gemini API, Firebase</p>
-        <p>Creative content generation app that produces songs, stories, and enables interactive AI engagement. Built with Flutter and powered by Google's Gemini API for enhanced user experience.</p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ## 📊 GitHub Statistics
 
@@ -140,6 +110,7 @@ const aman = {
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </div>
+
 
 ## 🎯 Latest Activity Graph
 [![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanbig&theme=react-dark)](https://github.com/Amanbig/github-readme-activity-graph)
