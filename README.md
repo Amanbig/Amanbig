@@ -68,10 +68,6 @@ const aman = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanbig&theme=radical" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbig&theme=radical&layout=compact" alt="Top Languages" />
-</div>
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Amanbig&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" />
