@@ -81,4 +81,7 @@ I thrive on solving complex problems and turning ideas into reality. Let’s con
 
 ---
 
-Feel free to reach out for collaboration, ideas, or just a chat! 🚀
+### 💬 Let’s Collaborate
+Feel free to reach out for collaboration, brainstorming, or just a friendly chat about tech!
+
+---
