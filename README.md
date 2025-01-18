@@ -2,11 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Amanpreet+Singh;Welcome+to+my+GitHub!&center=true&size=30">
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme-icons/main/assets/lines/colored.png">
-</p>
-
 <h2 align="center">🚀 Full-Stack Developer | Game Developer | ML Enthusiast</h2>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Amanbig?label=Follow&style=social">
@@ -110,10 +107,6 @@ const aman = {
 
 ## 🎯 Latest Activity Graph
 [![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanbig&theme=react-dark)](https://github.com/Amanbig/github-readme-activity-graph)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Amanbig/Amanbig/output/github-contribution-grid-snake.svg" />
-</div>
 
 ---
 
