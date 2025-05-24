@@ -269,14 +269,6 @@ console.log(aman.lifePhilosophy());
 </tr>
 </table>
 
-### 🤝 Open for
-- 💼 **Freelance Projects** & Consulting
-- 🤝 **Open Source** Collaborations  
-- 🎯 **Hackathons** & Competitions
-- 💬 **Mentoring** & Knowledge Sharing
-
-</div>
-
 ---
 
 <div align="center">
