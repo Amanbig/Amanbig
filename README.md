@@ -35,14 +35,17 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<table>
+<tr>
+<td width="60%">
 
 ```typescript
 class Developer {
-  name: string = "Amanpreet Singh";
-  location: string = "India 🇮🇳";
+  readonly name: string = "Amanpreet Singh";
+  readonly location: string = "India 🇮🇳";
+  readonly role: string = "Full-Stack Developer";
   
-  expertise: string[] = [
+  expertise: ReadonlyArray<string> = [
     "Full-Stack Development",
     "AI/ML Integration", 
     "Game Development",
@@ -50,12 +53,12 @@ class Developer {
     "System Architecture"
   ];
   
-  languages: string[] = [
+  languages: ReadonlyArray<string> = [
     "JavaScript", "TypeScript", "Python", 
     "C++", "Java", "Dart", "C#"
   ];
   
-  currentlyWorking: string[] = [
+  currentlyWorking: ReadonlyArray<string> = [
     "RAG-based Information Systems",
     "Advanced Game Physics",
     "Microservices Architecture",
@@ -66,8 +69,18 @@ class Developer {
     return "Code with passion, learn continuously, innovate fearlessly! 💫";
   }
   
-  dailyRoutine(): string[] {
-    return ["☕ Coffee", "💻 Code", "🤔 Debug", "📚 Learn", "🔄 Repeat"];
+  dailyRoutine(): ReadonlyArray<string> {
+    return [
+      "☕ Coffee", 
+      "💻 Code", 
+      "🤔 Debug", 
+      "📚 Learn", 
+      "🔄 Repeat"
+    ];
+  }
+  
+  getStatus(): string {
+    return "Ready to build amazing things! 🚀";
   }
 }
 
@@ -75,7 +88,21 @@ const aman = new Developer();
 console.log(aman.lifePhilosophy());
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%">
+
+<img align="center" alt="Coding" width="100%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 🌟 Quick Facts
+- 🔭 Currently working on **RAG Systems** and **Game Physics**
+- 🌱 Learning **Advanced ML** and **Blockchain Technology**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Full-Stack Development** and **AI Integration**
+- ⚡ Fun fact: I debug faster with coffee! ☕
+
+</td>
+</tr>
+</table>
 
 ---
 
