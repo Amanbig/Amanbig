@@ -1,116 +1,261 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amanpreet%20Singh&fontSize=60&animation=fadeIn" alt="Profile Banner" />
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Game+Developer;AI+Enthusiast&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Amanpreet%20Singh&fontSize=90&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Game%20Developer&descAlign=50&descAlignY=55&animation=fadeIn&fontColor=FFFFFF" alt="Header" />
 </div>
 
-<p align="center"><em>Turning ideas into code, one commit at a time</em></p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+digital+playground!+🚀;Full-Stack+Developer;AI+%26+ML+Integration+Specialist;Game+Development+Enthusiast;Open+Source+Contributor&font=Fira%20Code&center=true&width=800&height=50&duration=4000&pause=1000&color=667eea&size=22" alt="Typing Animation" />
+</div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/amanpreet-singh-9a1929211"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:amanpreetsinghjhiwant@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  <a href="https://discord.com/users/phibi2662"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://youtube.com/@beard-hv5qj"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+  <em>🎯 Transforming innovative ideas into scalable digital solutions</em>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amanbig&label=Profile%20views&color=0e75b6&style=flat-square">
-  <a href="https://github.com/Amanbig?tab=followers"><img src="https://img.shields.io/github/followers/Amanbig?label=Followers&style=social" alt="GitHub Followers"></a>
-</div>
-
-<p align="center"><em>Building elegant solutions to complex problems while exploring the frontiers of AI integration</em></p>
-
-<br>
-
-## 👨‍💻 About Me
-
-I'm a passionate full-stack developer with expertise in web and mobile application development. My journey spans across multiple technologies and frameworks, with a current focus on building scalable applications and exploring the potential of machine learning in real-world scenarios.
-
-<details>
-<summary>More about me</summary>
-<br>
-
-```typescript
-const aman = {
-    location: "India",
-    expertise: ["Full-Stack Development", "Game Development", "Mobile Apps", "ML Integration"],
-    languages: ["JavaScript", "Python", "C++", "Java", "Dart", "C#"],
-    currentlyLearning: "Advanced ML Algorithms & Game Design Patterns",
-    lifePhilosophy: "Code. Learn. Innovate. Repeat.",
-    funFact: "I debug with console.log and refuse to admit it!"
-};
-```
-
-</details>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <h4>Core Expertise</h4>
-  <img src="https://skillicons.dev/icons?i=js,python,react,flutter,nodejs,mongodb" />
-  
-  <h4>Strong Experience</h4>
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,express,django,firebase,docker" />
-  
-  <h4>Working Knowledge</h4>
-  <img src="https://skillicons.dev/icons?i=cpp,java,cs,unity,postgresql,kubernetes" />
-  
-  <h4>Currently Exploring</h4>
-  <img src="https://skillicons.dev/icons?i=unreal,graphql,prisma,blender" />
-</div>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanbig&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbig&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-## 🌱 Current Focus
-
-I'm currently diving deeper into:
-
-- Building scalable microservices architectures
-- Integrating AI/ML into practical applications
-- Contributing to open-source projects
-- Game development with advanced physics and AI behaviors
-- Exploring blockchain technology and Web3 development
-
-## 🏆 Achievements
-
-- **IOS App Development Internship** - Successfully completed an internship at Celebrare, developing mobile applications using Flutter
-- **Google Gemini API Competition Participant** - Created an innovative application showcasing practical applications of LLMs
-- **Technical Author** - Published article on GeeksforGeeks about operator overloading in Dart, contributing to developer education
-- **RAG Implementation Expert** - Delivered effective RAG-based information retrieval systems for two government organizations
-
-## 🔍 Find Me Online
-
-<div align="center">
-  <a href="https://www.hackerrank.com/co21308">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  <a href="https://linkedin.com/in/amanpreet-singh-9a1929211" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
-  <a href="https://www.leetcode.com/co21308">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  <a href="mailto:amanpreetsinghjhiwant@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
-  <a href="https://kaggle.com/amanu1234">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <a href="https://discord.com/users/phibi2662" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA" alt="Discord"/>
   </a>
-  <a href="https://dev.to/amanpreet_singh_d2ff9c5b5">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  <a href="https://youtube.com/@beard-hv5qj" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
   </a>
 </div>
 
-## 📝 Recent Projects
-
-- **RAG-Based System for JAC Chandigarh** - Improved document retrieval efficiency by 70% using advanced NLP techniques
-- **RAG-Based System for NDMC** - Implemented semantic search capabilities reducing query response time by 60%
-- **Exploring Transformer Models** - Currently working on a series of experiments with transformer architecture for specialized domains
-
-## 🤝 Let's Connect
-
-I'm always excited to collaborate on interesting projects or discuss new technologies. Whether you're looking for a contributor to your open-source project, need technical advice, or just want to chat about the latest in tech - reach out!
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+build+something+awesome+together!&center=true&size=20">
+  <img src="https://komarev.com/ghpvc/?username=Amanbig&style=for-the-badge&color=667eea&labelColor=1a1a2e" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Amanbig?style=for-the-badge&color=667eea&labelColor=1a1a2e&logo=github" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Amanbig?style=for-the-badge&color=667eea&labelColor=1a1a2e&logo=github" alt="Stars">
 </div>
 
 ---
+
+## 🧑‍💻 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```typescript
+class Developer {
+  name: string = "Amanpreet Singh";
+  location: string = "India 🇮🇳";
+  
+  expertise: string[] = [
+    "Full-Stack Development",
+    "AI/ML Integration", 
+    "Game Development",
+    "Mobile App Development",
+    "System Architecture"
+  ];
+  
+  languages: string[] = [
+    "JavaScript", "TypeScript", "Python", 
+    "C++", "Java", "Dart", "C#"
+  ];
+  
+  currentlyWorking: string[] = [
+    "RAG-based Information Systems",
+    "Advanced Game Physics",
+    "Microservices Architecture",
+    "LLM Integration Projects"
+  ];
+  
+  lifePhilosophy(): string {
+    return "Code with passion, learn continuously, innovate fearlessly! 💫";
+  }
+  
+  dailyRoutine(): string[] {
+    return ["☕ Coffee", "💻 Code", "🤔 Debug", "📚 Learn", "🔄 Repeat"];
+  }
+}
+
+const aman = new Developer();
+console.log(aman.lifePhilosophy());
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### 🚀 Core Expertise
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+### ⚡ Advanced Skills
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+### 🎮 Game Development & Tools
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+</p>
+
+### 🤖 AI/ML & Data
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanbig&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=ffffff&border_color=667eea"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbig&layout=compact&langs_count=10&theme=radical&border_radius=10&bg_color=0d1117&title_color=667eea&text_color=ffffff&border_color=667eea"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanbig&theme=radical&border_radius=10&background=0d1117&stroke=667eea&ring=667eea&fire=ffb347&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=667eea&sideNums=667eea&dates=ffffff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanbig&bg_color=0d1117&color=667eea&line=667eea&point=ffb347&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🌱 Current Endeavors
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🔭 What I'm Building
+- 🤖 **Advanced RAG Systems** with custom embeddings
+- 🎮 **Physics-based Game Engine** components
+- 🌐 **Microservices Architecture** for scalable apps
+- 🧠 **LLM Integration** for enterprise solutions
+
+</td>
+<td width="50%">
+
+### 📚 Learning Journey
+- 🦾 **Advanced ML Algorithms** & Neural Networks
+- 🎯 **Game Design Patterns** & Optimization
+- ⛓️ **Blockchain Technology** & Web3 Development
+- 🚀 **System Design** for High-Scale Applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+### 🔥 Spotlight Projects
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h4>🏛️ RAG System - JAC</h4>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
+<br><em>70% improvement in document retrieval</em>
+</td>
+
+<td align="center" width="33%">
+<h4>🏢 NDMC RAG System</h4>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<br><em>60% faster query response time</em>
+</td>
+
+<td align="center" width="33%">
+<h4>🤖 Gemini API Project</h4>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<br><em>Innovative LLM application</em>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+### 💬 Let's Connect
+<p>I'm always excited to collaborate on innovative projects, discuss cutting-edge technologies, or contribute to open-source initiatives!</p>
+
+<table>
+<tr>
+<td align="center">
+<a href="https://www.hackerrank.com/co21308" target="_blank">
+<img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+</td>
+<td align="center">
+<a href="https://www.leetcode.com/co21308" target="_blank">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
+</td>
+<td align="center">
+<a href="https://kaggle.com/amanu1234" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+</td>
+<td align="center">
+<a href="https://dev.to/amanpreet_singh_d2ff9c5b5" target="_blank">
+<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
+
+### 🤝 Open for
+- 💼 **Freelance Projects** & Consulting
+- 🤝 **Open Source** Collaborations  
+- 🎯 **Hackathons** & Competitions
+- 💬 **Mentoring** & Knowledge Sharing
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting+my+profile!+⭐;Let's+build+the+future+together!+🚀;Happy+Coding!+💻&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000&color=667eea&size=18" alt="Footer Message" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn" alt="Footer"/>
+</div>
