@@ -33,7 +33,6 @@
   <img src="https://komarev.com/ghpvc/?username=Amanbig&style=for-the-badge&color=58a6ff&labelColor=1c2128" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/Amanbig?style=for-the-badge&color=58a6ff&labelColor=1c2128&logo=github" alt="Followers">
   <img src="https://img.shields.io/github/stars/Amanbig?style=for-the-badge&color=58a6ff&labelColor=1c2128&logo=github" alt="Stars">
-  <img src="https://img.shields.io/badge/Open%20Source-💖-ff69b4?style=for-the-badge" alt="Open Source Love">
 </div>
 
 ---
