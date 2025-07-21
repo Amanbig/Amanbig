@@ -53,8 +53,7 @@ interface Developer {
 class AmanpreetSingh implements Developer {
   readonly name = "Amanpreet Singh";
   readonly location = "India 🇮🇳";
-  readonly role = "Senior Full-Stack Developer";
-  readonly experience = "3+ years building scalable solutions";
+  readonly role = "Full-Stack Developer";
   
   readonly passion = [
     "🚀 Cutting-edge AI/ML applications",
