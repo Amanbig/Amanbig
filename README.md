@@ -39,6 +39,9 @@
 
 ## 🧑‍💻 About Me
 
+<details>
+<summary>👨‍💻 <strong>Click to explore my developer profile</strong></summary>
+
 <div>
 
 ```typescript
@@ -100,6 +103,8 @@ console.log(developer.getMotivation());
 ```
 
 </div>
+
+</details>
 
 ---
 
