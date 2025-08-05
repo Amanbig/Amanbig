@@ -35,6 +35,9 @@
   <img src="https://img.shields.io/github/stars/Amanbig?style=for-the-badge&color=58a6ff&labelColor=1c2128&logo=github" alt="Stars">
 </div>
 
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95%EF%B8%8F-orange?style=for-the-badge)](https://buymeacoffee.com/amanpreet)
+
 ---
 
 ## 🧑‍💻 About Me
