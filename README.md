@@ -24,7 +24,7 @@
   <a href="https://youtube.com/@beard-hv5qj" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
   </a>
-  <a href="https://twitter.com/your_handle" target="_blank">
+  <a href="https://x.com/Amanpre27838795" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
   </a>
 </div>
