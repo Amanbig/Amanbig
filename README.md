@@ -42,7 +42,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
 [**My Portfolio →**](https://portfolio-snowy-alpha-13voib56jt.vercel.app/)
 
 <details>
