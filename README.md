@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Amanpreet Singh</h1>
-  <h3>AI Backend & Systems Engineer</h3>
+  <h3>AI Backend & Systems Engineer | Open-Source Maintainer</h3>
   <p>
     <em>Building scalable web infrastructure, integrating LLMs, and designing reliable AI-powered systems.</em>
   </p>
@@ -37,6 +37,7 @@
 ## ⚡ Engineering Philosophy
 
 I don't just write code; I design systems.  
+I also believe in building in public and maintaining open-source tools that others can rely on.
 My focus lies at the intersection of **high-performance web applications** and **generative AI systems**.
 
 - **System Architecture:** Designing event-driven backend services and scalable APIs.
@@ -74,6 +75,19 @@ My focus lies at the intersection of **high-performance web applications** and *
   <img src="https://github-readme-stats.vercel.app/api?username=Amanbig&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=999&icon_color=58a6ff" height="150" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanbig&theme=transparent&hide_border=true&title_color=white&text_color=999&icon_color=58a6ff&dates=999" height="150" alt="Streak" />
 </div>
+
+---
+
+## 🔓 Open Source
+
+I actively maintain and contribute to open-source projects focused on developer productivity and backend systems.
+
+- **runapi** — A developer-first API framework for building and managing backend services  
+  ⭐ Maintainer · Python · FastAPI ecosystem  
+  👉 https://github.com/Amanbig/runapi
+
+- **chatme** — A real-time chat application exploring scalable messaging patterns  
+  👉 https://github.com/Amanbig/chatme
 
 ---
 
