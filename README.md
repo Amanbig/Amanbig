@@ -31,63 +31,121 @@
 </div>
 </div>
 
-
-<br />
+<br/>
 
 ## ⚡ Engineering Philosophy
 
-I don't just write code; I design systems.  
+I don’t just write code — I design systems.
 
-I also believe in building in public and maintaining open-source tools that others can rely on.
+My work focuses on building **scalable backend infrastructure**, integrating **LLMs into real products**, and creating **open-source tools developers can rely on**.
 
-My focus lies at the intersection of **high-performance web applications** and **generative AI systems**.
+I believe in:
+- Building in public
+- Prioritizing reliability over hype
+- Treating AI as infrastructure, not a feature
 
-- **System Architecture:** Designing event-driven backend services and scalable APIs.
-- **AI Integration:** Moving beyond API calls to building custom RAG pipelines and fine-tuning models.
-- **Interactive Systems:** Applying real-time and interactive design principles to modern web experiences.
+---
+
+## 🏆 Key Highlights
+
+- 🚀 Creator of **MLCore**, a self-hosted machine learning platform
+- 🧠 Designed production-ready **RAG pipelines** with vector databases
+- 🏗 Built multiple **developer tools and backend frameworks**
+- ⚡ Experienced in **real-time systems and distributed architectures**
+- 🔓 Active open-source maintainer
+
+---
+
+## 🚀 Flagship Project — MLCore
+
+**MLCore** is a self-hosted machine learning platform designed to make experimentation, training, and deployment seamless.
+
+### ✨ What it enables
+- Upload and manage datasets
+- Data wrangling & preprocessing
+- Train ML models
+- Run predictions via APIs
+- Export trained models
+- Monitor workflows from a unified dashboard
+
+### 🧱 Architecture
+- FastAPI backend
+- Async task workflows
+- Dataset & experiment tracking
+- Containerized deployment
+- Modular training pipeline
+
+🔗 https://github.com/Amanbig/MLCore
 
 ---
 
 ## 🛠 Technical Stack
 
 | Layer | Technologies |
-| :--- | :---: |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=tailwindcss)  |
-| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js) ![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django) ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat&logo=nestjs) |
-| **Datastores** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis) ![Qdrant](https://img.shields.io/badge/-Qdrant-black?style=flat&logo=qdrant) |
-| **AI Systems** | ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow) ![RAG](https://img.shields.io/badge/-RAG-black?style=flat) ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat&logo=langchain) |
-| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes) ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat&logo=nginx) ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws) |
+| :--- | :--- |
+| **Languages** | Python · TypeScript · JavaScript |
+| **Frontend** | React · Next.js · Tailwind |
+| **Backend** | FastAPI · Node.js · Django · NestJS |
+| **Databases** | PostgreSQL · MongoDB · Redis · Qdrant |
+| **AI/ML** | PyTorch · TensorFlow · RAG · LangChain |
+| **Infra** | Docker · Kubernetes · Nginx · AWS |
 
 ---
 
 ## 🔓 Open Source
 
-I actively maintain and contribute to open-source projects focused on developer productivity and backend systems.
+### 🧠 MLCore  
+**Maintainer** · ML Infrastructure  
 
-### 🧩 runapi
-**Maintainer** · Python · FastAPI ecosystem  
+Self-hosted ML platform for end-to-end workflows.
 
-A developer-first API framework for building and managing backend services.
+🔗 https://github.com/Amanbig/MLCore
+
+
+### 🧩 RunAPI  
+**Maintainer** · Backend Framework  
+
+Developer-first framework for building scalable APIs.
 
 🔗 https://github.com/Amanbig/runapi
 
 
-### 💬 chatme
-Real-time chat application exploring scalable messaging patterns.
+### 💬 ChatMe  
+Real-time messaging system exploring scalable communication patterns.
 
 🔗 https://github.com/Amanbig/chatme
 
 ---
 
-## 🔭 Current Focus & Deep Dives
+## 🔭 Current Focus
 
-> *This section highlights what I am actively researching or building in production.*
-
-1.  **Advanced RAG Pipelines:** Implementing vector search with semantic reranking for high-precision context retrieval.
-2.  **Multimodal Agents:** Experimenting with LangGraph to create agents that can perceive and act across different data types.
-3.  **Real-time Infrastructure:** Optimizing WebSockets and gRPC for low-latency communication in multiplayer environments.
+- Advanced RAG architectures with reranking
+- Multimodal and agentic systems
+- Low-latency real-time infrastructure
+- ML infrastructure tooling
 
 ---
 
-💡 Always open to collaborations, mentorship, and cutting-edge AI projects.  
+## 🧭 Design Principles
+
+- Prefer simple, observable systems over complex abstractions
+- Build with scalability in mind from day one
+- Focus on developer experience
+- Measure performance, don’t assume it
+
+---
+
+## 🤝 Contributing
+
+I welcome contributors and collaborators interested in:
+
+- ML infrastructure
+- Backend systems
+- Developer tooling
+- Open-source platforms
+
+Feel free to open an issue or reach out.
+
+---
+
+💡 Always open to collaborations, mentorship, and ambitious AI projects.
