@@ -81,14 +81,14 @@ I believe in:
 
 ## 🛠 Technical Stack
 
-| Layer | Technologies |
-| :--- | :--- |
-| **Languages** | Python · TypeScript · JavaScript |
-| **Frontend** | React · Next.js · Tailwind |
-| **Backend** | FastAPI · Node.js · Django · NestJS |
-| **Databases** | PostgreSQL · MongoDB · Redis · Qdrant |
-| **AI/ML** | PyTorch · TensorFlow · RAG · LangChain |
-| **Infra** | Docker · Kubernetes · Nginx · AWS |
+| Layer | Technologies | 
+| :--- | :---: | 
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) | 
+| **Frontend** | ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=tailwindcss) | 
+| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js) ![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django) ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat&logo=nestjs) | 
+| **Datastores** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis) ![Qdrant](https://img.shields.io/badge/-Qdrant-black?style=flat&logo=qdrant) | 
+| **AI Systems** | ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow) ![RAG](https://img.shields.io/badge/-RAG-black?style=flat) ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat&logo=langchain) | 
+| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes) ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat&logo=nginx) ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws) |
 
 ---
 
