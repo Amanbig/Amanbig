@@ -1,151 +1,268 @@
-<div align="center">
-  <h1>Amanpreet Singh</h1>
-  <h3>AI Backend & Systems Engineer | Open-Source Maintainer</h3>
-  <p>
-    <em>Building scalable web infrastructure, integrating LLMs, and designing reliable AI-powered systems.</em>
-  </p>
-  
-  <p>
-    <a href="https://portfolio-snowy-alpha-13voib56jt.vercel.app/"><strong>View Portfolio →</strong></a>
-  </p>
+# <div align="center">Amanpreet Singh</div>
 
-  <div align="center">
-  <a href="https://linkedin.com/in/amanpreet-singh-9a1929211" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+<div align="center">
+
+### AI & Infrastructure Engineer | Open-Source Maintainer
+
+*Building scalable infrastructure, AI-powered systems, and developer tools for modern software engineering.*
+
+<p>
+  <a href="https://portfolio-snowy-alpha-13voib56jt.vercel.app/"><strong>🌐 Portfolio</strong></a> •
+  <a href="https://github.com/Amanbig"><strong>GitHub</strong></a> •
+  <a href="https://linkedin.com/in/amanpreet-singh-9a1929211"><strong>LinkedIn</strong></a>
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/amanpreet-singh-9a1929211">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:amanpreetsinghjhiwant@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/phibi2662" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/>
+  <a href="https://discord.com/users/phibi2662">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@beard-hv5qj" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="YouTube"/>
+  <a href="https://youtube.com/@beard-hv5qj">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://x.com/Amanpre27838795" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  <a href="https://x.com/Amanpre27838795">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-    <a href="https://github.com/Amanbig">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
+  <a href="https://github.com/Amanbig">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 </div>
+
+---
+
+# ⚡ Engineering Philosophy
+
+I enjoy building systems that continue to work long after the first release.
+
+My interests lie at the intersection of **backend engineering**, **cloud infrastructure**, **developer tooling**, and **artificial intelligence**. Whether it's designing scalable APIs, securing infrastructure, building ML platforms, or creating tools that improve developer productivity, I focus on software that is reliable, maintainable, and enjoyable to use.
+
+### I believe in
+
+* 🚀 Building in public
+* 🔓 Contributing to open source
+* 🏗 Designing for scalability from day one
+* 📊 Measuring performance instead of guessing
+* 🤖 Treating AI as infrastructure—not just another feature
+
+---
+
+# 🏆 Highlights
+
+* 🔐 Creator of **ManUp**, an open-source secrets management platform
+* 🚀 Creator of **MLCore**, a self-hosted machine learning platform
+* 🏗 Built developer-first backend frameworks and CLI tooling
+* 🤖 Building AI infrastructure, RAG pipelines, and LLM-powered applications
+* ⚡ Experienced with distributed systems and cloud-native deployments
+* 🔓 Active Open Source Maintainer
+
+---
+
+# 🚀 Flagship Projects
+
+## 🔐 ManUp
+
+### Open-Source Secret Management Platform
+
+ManUp helps developers securely manage secrets across local development, CI/CD pipelines, Docker deployments, and production environments.
+
+Instead of scattering secrets across `.env` files, applications fetch encrypted secrets from a centralized platform.
+
+### Features
+
+* 🔑 End-to-end encrypted secret storage
+* 👥 Team workspaces
+* 🌍 Multiple environments
+* 📁 Project management
+* 🔐 API Keys
+* 🛡 Audit logging
+* ⚡ High-performance REST API
+* 🐳 Docker deployment
+* 💻 Powerful CLI
+* 📦 Export secrets to `.env` or JSON
+* ▶ Run applications with injected secrets
+* 🗄 PostgreSQL & PGlite support
+* 🔄 Secret versioning ready
+* 📈 Rate limiting & authentication
+
+### Technology
+
+* Node.js
+* TypeScript
+* PostgreSQL
+* PGlite
+* Docker
+* JWT Authentication
+* Envelope Encryption
+* REST APIs
+
+🔗 **Repository**
+
+https://github.com/Amanbig/ManUp
+
+---
+
+## 🧠 MLCore
+
+### Self-Hosted Machine Learning Platform
+
+MLCore provides a unified platform for training, experimenting with, and deploying machine learning models.
+
+### Features
+
+* Dataset management
+* Data preprocessing
+* Experiment tracking
+* Model training
+* Prediction APIs
+* Model export
+* Dashboard
+* Workflow management
+
+### Technology
+
+* FastAPI
+* Python
+* PostgreSQL
+* Async Workers
+* Docker
+* Modular ML Architecture
+
+🔗 **Repository**
+
+https://github.com/Amanbig/MLCore
+
+---
+
+# 💻 Technical Stack
+
+| Category           | Technologies                                                         |
+| ------------------ | -------------------------------------------------------------------- |
+| **Languages**      | Python • TypeScript • JavaScript • C • Go                            |
+| **Frontend**       | React • Next.js • Tailwind CSS                                       |
+| **Backend**        | FastAPI • Node.js • Django • NestJS • Express                        |
+| **Databases**      | PostgreSQL • MongoDB • Redis • SQLite • Qdrant                       |
+| **AI / ML**        | PyTorch • TensorFlow • Hugging Face • Transformers • RAG • LangChain |
+| **Infrastructure** | Docker • Kubernetes • Nginx • Linux • AWS                            |
+| **DevOps**         | GitHub Actions • Docker Compose • CI/CD                              |
+| **Tools**          | Git • Postman • VS Code                                              |
+
+---
+
+# 🔓 Open Source Projects
+
+## 🔐 ManUp
+
+**Developer Infrastructure**
+
+Secure secrets management platform for modern development teams.
+
+* CLI
+* REST API
+* Docker
+* Encryption
+* Team Workspaces
+
+https://github.com/Amanbig/ManUp
+
+---
+
+## 🧠 MLCore
+
+**Machine Learning Infrastructure**
+
+Platform for building, training, deploying, and managing ML workflows.
+
+https://github.com/Amanbig/MLCore
+
+---
+
+## 🧩 RunAPI
+
+**Backend Framework**
+
+Developer-first framework for building scalable APIs with simplicity in mind.
+
+https://github.com/Amanbig/runapi
+
+---
+
+## 💬 ChatMe
+
+**Real-Time Communication**
+
+Messaging platform exploring scalable communication architecture and modern backend patterns.
+
+https://github.com/Amanbig/chatme
+
+---
+
+# 🌱 Currently Exploring
+
+* Agentic AI Systems
+* Advanced Retrieval-Augmented Generation (RAG)
+* Distributed Systems
+* Cloud Infrastructure
+* Model Serving
+* ML Infrastructure
+* GPU Computing
+* HashiCorp Nomad
+* AWS
+
+---
+
+# 🧭 Design Principles
+
+I try to follow a few principles regardless of the technology stack.
+
+* Keep systems simple before making them clever.
+* Build software that is observable and debuggable.
+* Optimize for developer experience.
+* Prefer automation over manual processes.
+* Security should be part of the architecture—not an afterthought.
+* Design systems that can evolve without complete rewrites.
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Amanbig\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amanbig\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbig\&layout=compact\&theme=tokyonight\&hide_border=true)
+
 </div>
 
-<br/>
+---
 
-## ⚡ Engineering Philosophy
+# 🤝 Let's Build Something
 
-I don’t just write code — I design systems.
+I'm always interested in collaborating on projects involving:
 
-My work focuses on building **scalable backend infrastructure**, integrating **LLMs into real products**, and creating **open-source tools developers can rely on**.
+* 🤖 Artificial Intelligence
+* ☁ Cloud Infrastructure
+* 🔐 Security & Developer Tooling
+* 🏗 Backend Engineering
+* 🚀 Open Source
+* ⚡ Distributed Systems
 
-I believe in:
-- Building in public
-- Prioritizing reliability over hype
-- Treating AI as infrastructure, not a feature
+If you're building something exciting, feel free to reach out.
 
 ---
 
-## 🏆 Key Highlights
+<div align="center">
 
-- 🚀 Creator of **MLCore**, a self-hosted machine learning platform
-- 🧠 Designed production-ready **RAG pipelines** with vector databases
-- 🏗 Built multiple **developer tools and backend frameworks**
-- ⚡ Experienced in **real-time systems and distributed architectures**
-- 🔓 Active open-source maintainer
+### Thanks for visiting!
 
----
+⭐ If you find any of my projects useful, consider giving them a star.
 
-## 🚀 Flagship Project — MLCore
-
-**MLCore** is a self-hosted machine learning platform designed to make experimentation, training, and deployment seamless.
-
-### ✨ What it enables
-- Upload and manage datasets
-- Data wrangling & preprocessing
-- Train ML models
-- Run predictions via APIs
-- Export trained models
-- Monitor workflows from a unified dashboard
-
-### 🧱 Architecture
-- FastAPI backend
-- Async task workflows
-- Dataset & experiment tracking
-- Containerized deployment
-- Modular training pipeline
-
-🔗 https://github.com/Amanbig/MLCore
-
----
-
-## 🛠 Technical Stack
-
-| Layer | Technologies | 
-| :--- | :---: | 
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) | 
-| **Frontend** | ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat&logo=tailwindcss) | 
-| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js) ![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django) ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat&logo=nestjs) | 
-| **Datastores** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis) ![Qdrant](https://img.shields.io/badge/-Qdrant-black?style=flat&logo=qdrant) | 
-| **AI Systems** | ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow) ![RAG](https://img.shields.io/badge/-RAG-black?style=flat) ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat&logo=langchain) | 
-| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes) ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat&logo=nginx) ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws) |
-
----
-
-## 🔓 Open Source
-
-### 🧠 MLCore  
-**Maintainer** · ML Infrastructure  
-
-Self-hosted ML platform for end-to-end workflows.
-
-🔗 https://github.com/Amanbig/MLCore
-
-
-### 🧩 RunAPI  
-**Maintainer** · Backend Framework  
-
-Developer-first framework for building scalable APIs.
-
-🔗 https://github.com/Amanbig/runapi
-
-
-### 💬 ChatMe  
-Real-time messaging system exploring scalable communication patterns.
-
-🔗 https://github.com/Amanbig/chatme
-
----
-
-## 🔭 Current Focus
-
-- Advanced RAG architectures with reranking
-- Multimodal and agentic systems
-- Low-latency real-time infrastructure
-- ML infrastructure tooling
-
----
-
-## 🧭 Design Principles
-
-- Prefer simple, observable systems over complex abstractions
-- Build with scalability in mind from day one
-- Focus on developer experience
-- Measure performance, don’t assume it
-
----
-
-## 🤝 Contributing
-
-I welcome contributors and collaborators interested in:
-
-- ML infrastructure
-- Backend systems
-- Developer tooling
-- Open-source platforms
-
-Feel free to open an issue or reach out.
-
----
-
-💡 Always open to collaborations, mentorship, and ambitious AI projects.
+</div>
