@@ -108,38 +108,6 @@ https://github.com/Amanbig/ManUp
 
 ---
 
-## 🧠 MLCore
-
-### Self-Hosted Machine Learning Platform
-
-MLCore provides a unified platform for training, experimenting with, and deploying machine learning models.
-
-### Features
-
-* Dataset management
-* Data preprocessing
-* Experiment tracking
-* Model training
-* Prediction APIs
-* Model export
-* Dashboard
-* Workflow management
-
-### Technology
-
-* FastAPI
-* Python
-* PostgreSQL
-* Async Workers
-* Docker
-* Modular ML Architecture
-
-🔗 **Repository**
-
-https://github.com/Amanbig/MLCore
-
----
-
 # 💻 Technical Stack
 
 | Category           | Technologies                                                         |
