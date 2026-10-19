@@ -4,7 +4,7 @@
 
 ### AI & Infrastructure Engineer | Open-Source Maintainer
 
-*Building scalable infrastructure, AI-powered systems, and developer tools for modern software engineering.*
+*Building developer tools, infrastructure software, and AI systems — from low-level implementations to usable applications.*
 
 <p>
   <a href="https://portfolio-snowy-alpha-13voib56jt.vercel.app/"><strong>🌐 Portfolio</strong></a> •
@@ -13,224 +13,156 @@
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/amanpreet-singh-9a1929211">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:amanpreetsinghjhiwant@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/phibi2662">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@beard-hv5qj">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Amanpre27838795">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Amanbig">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/amanpreet-singh-9a1929211"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:amanpreetsinghjhiwant@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://discord.com/users/phibi2662"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://youtube.com/@beard-hv5qj"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://x.com/Amanpre27838795"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
 </div>
 
 ---
 
-# ⚡ Engineering Philosophy
+## ⚡ Engineering Philosophy
 
 I enjoy building systems that continue to work long after the first release.
 
-My interests lie at the intersection of **backend engineering**, **cloud infrastructure**, **developer tooling**, and **artificial intelligence**. Whether it's designing scalable APIs, securing infrastructure, building ML platforms, or creating tools that improve developer productivity, I focus on software that is reliable, maintainable, and enjoyable to use.
+My interests span **developer tooling, backend engineering, infrastructure, and artificial intelligence**. I like understanding how things work under the hood, turning ideas into usable software, and improving projects through real-world testing and iteration.
 
-### I believe in
-
-* 🚀 Building in public
-* 🔓 Contributing to open source
-* 🏗 Designing for scalability from day one
-* 📊 Measuring performance instead of guessing
-* 🤖 Treating AI as infrastructure—not just another feature
+- 🚀 Build, ship, and improve real software.
+- 🔓 Develop and maintain open-source projects.
+- 🏗 Design systems that are maintainable and extensible.
+- 📊 Measure performance instead of guessing.
+- 🤖 Explore AI as both a product capability and an engineering discipline.
 
 ---
 
-# 🏆 Highlights
+## 🚀 Featured Projects
 
-* 🔐 Creator of **ManUp**, an open-source secrets management platform
-* 🚀 Creator of **MLCore**, a self-hosted machine learning platform
-* 🏗 Built developer-first backend frameworks and CLI tooling
-* 🤖 Building AI infrastructure, RAG pipelines, and LLM-powered applications
-* ⚡ Experienced with distributed systems and cloud-native deployments
-* 🔓 Active Open Source Maintainer
+Projects I've built across desktop software, developer infrastructure, and AI.
 
----
+### 🖥️ [Dockit](https://github.com/Amanbig/dockit)
 
-# 🚀 Flagship Projects
+**Desktop Container Management | Go · Wails · Docker**
 
-## 🔐 ManUp
+A desktop application for managing containers and simplifying container-engine workflows.
 
-### Open-Source Secret Management Platform
+- Container management through a desktop interface.
+- Simplified engine setup and installation workflows.
+- Container image discovery and related developer workflows.
+- Cross-platform packaging and installation work.
 
-ManUp helps developers securely manage secrets across local development, CI/CD pipelines, Docker deployments, and production environments.
+[**Source code & releases →**](https://github.com/Amanbig/dockit)
 
-Instead of scattering secrets across `.env` files, applications fetch encrypted secrets from a centralized platform.
+### ⌨️ [Termlet](https://github.com/Amanbig/termlet)
 
-### Features
+**SSH & Remote Development | Open Source**
 
-* 🔑 End-to-end encrypted secret storage
-* 👥 Team workspaces
-* 🌍 Multiple environments
-* 📁 Project management
-* 🔐 API Keys
-* 🛡 Audit logging
-* ⚡ High-performance REST API
-* 🐳 Docker deployment
-* 💻 Powerful CLI
-* 📦 Export secrets to `.env` or JSON
-* ▶ Run applications with injected secrets
-* 🗄 PostgreSQL & PGlite support
-* 🔄 Secret versioning ready
-* 📈 Rate limiting & authentication
+A desktop application focused on SSH and remote-development workflows.
 
-### Technology
+Building toward a more convenient experience for working with remote systems through a dedicated application.
 
-* Node.js
-* TypeScript
-* PostgreSQL
-* PGlite
-* Docker
-* JWT Authentication
-* Envelope Encryption
-* REST APIs
+[**Source code & releases →**](https://github.com/Amanbig/termlet)
 
-🔗 **Repository**
+### 🔐 [ManUp](https://github.com/Amanbig/ManUp)
 
-https://github.com/Amanbig/ManUp
+**Secrets Management | TypeScript · Node.js · PostgreSQL**
+
+An open-source secrets management platform for organizing and accessing application secrets across development and deployment workflows.
+
+- Centralized secret management.
+- Team and environment-oriented organization.
+- CLI and REST API workflows.
+- Encrypted secret storage and Docker-based deployment.
+
+[**Explore ManUp →**](https://github.com/Amanbig/ManUp)
 
 ---
 
-# 💻 Technical Stack
+## 🧪 More Open-Source Projects
 
-| Category           | Technologies                                                         |
-| ------------------ | -------------------------------------------------------------------- |
-| **Languages**      | Python • TypeScript • JavaScript • C • Go                            |
-| **Frontend**       | React • Next.js • Tailwind CSS                                       |
-| **Backend**        | FastAPI • Node.js • Django • NestJS • Express                        |
-| **Databases**      | PostgreSQL • MongoDB • Redis • SQLite • Qdrant                       |
-| **AI / ML**        | PyTorch • TensorFlow • Hugging Face • Transformers • RAG • LangChain |
-| **Infrastructure** | Docker • Kubernetes • Nginx • Linux • AWS                            |
-| **DevOps**         | GitHub Actions • Docker Compose • CI/CD                              |
-| **Tools**          | Git • Postman • VS Code                                              |
+| Project | Focus | Repository |
+| --- | --- | --- |
+| 🧠 **MLCore** | Machine learning infrastructure and workflows | [GitHub](https://github.com/Amanbig/MLCore) |
+| 🧩 **RunAPI** | Backend framework and API development | [GitHub](https://github.com/Amanbig/runapi) |
+| 💬 **ChatMe** | Real-time communication and backend architecture | [GitHub](https://github.com/Amanbig/chatme) |
+| 🤖 **Forge GPT** | Learning and implementing LLM internals from scratch | [GitHub](https://github.com/Amanbig/forge-gpt) |
+
+I use these projects to explore different engineering problems, experiment with architectural ideas, and turn what I learn into practical implementations.
 
 ---
 
-# 🔓 Open Source Projects
+## 🛠️ Technical Stack
 
-## 🔐 ManUp
-
-**Developer Infrastructure**
-
-Secure secrets management platform for modern development teams.
-
-* CLI
-* REST API
-* Docker
-* Encryption
-* Team Workspaces
-
-https://github.com/Amanbig/ManUp
+| Category | Technologies |
+| --- | --- |
+| **Languages** | Python · Go · TypeScript · JavaScript · C |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Backend** | FastAPI · Node.js · Django · NestJS · Express |
+| **Databases** | PostgreSQL · MongoDB · Redis · SQLite · Qdrant |
+| **AI / ML** | PyTorch · TensorFlow · Hugging Face · Transformers · RAG |
+| **Infrastructure** | Linux · Docker · Kubernetes · Nginx · AWS |
+| **DevOps** | GitHub Actions · Docker Compose · CI/CD |
+| **Tools** | Git · Postman · VS Code |
 
 ---
 
-## 🧠 MLCore
+## 🧠 Currently Exploring
 
-**Machine Learning Infrastructure**
-
-Platform for building, training, deploying, and managing ML workflows.
-
-https://github.com/Amanbig/MLCore
-
----
-
-## 🧩 RunAPI
-
-**Backend Framework**
-
-Developer-first framework for building scalable APIs with simplicity in mind.
-
-https://github.com/Amanbig/runapi
+- **LLM internals:** Transformer architectures, training, inference, and optimization.
+- **AI systems:** RAG, agents, model serving, and practical AI applications.
+- **Systems engineering:** Memory efficiency, performance, and resource management.
+- **Infrastructure:** Containers, deployment automation, and distributed systems.
+- **Developer experience:** Better desktop applications, CLIs, and open-source tooling.
 
 ---
 
-## 💬 ChatMe
+## 🧭 Design Principles
 
-**Real-Time Communication**
-
-Messaging platform exploring scalable communication architecture and modern backend patterns.
-
-https://github.com/Amanbig/chatme
-
----
-
-# 🌱 Currently Exploring
-
-* Agentic AI Systems
-* Advanced Retrieval-Augmented Generation (RAG)
-* Distributed Systems
-* Cloud Infrastructure
-* Model Serving
-* ML Infrastructure
-* GPU Computing
-* HashiCorp Nomad
-* AWS
+- Keep systems simple before making them clever.
+- Build software that is observable and debuggable.
+- Optimize for developer experience.
+- Prefer automation over repetitive manual work.
+- Treat security as an architectural concern.
+- Design systems that can evolve without complete rewrites.
+- Ship early, learn from actual usage, and iterate.
 
 ---
 
-# 🧭 Design Principles
-
-I try to follow a few principles regardless of the technology stack.
-
-* Keep systems simple before making them clever.
-* Build software that is observable and debuggable.
-* Optimize for developer experience.
-* Prefer automation over manual processes.
-* Security should be part of the architecture—not an afterthought.
-* Design systems that can evolve without complete rewrites.
-
----
-
-# 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Amanbig\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Amanbig&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Amanbig\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanbig&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbig\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbig&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
 </div>
 
 ---
 
-# 🤝 Let's Build Something
+## 🤝 Let's Build Something
 
-I'm always interested in collaborating on projects involving:
+I'm interested in collaborating on projects involving:
 
-* 🤖 Artificial Intelligence
-* ☁ Cloud Infrastructure
-* 🔐 Security & Developer Tooling
-* 🏗 Backend Engineering
-* 🚀 Open Source
-* ⚡ Distributed Systems
+- 🤖 AI and machine learning
+- ☁️ Cloud and developer infrastructure
+- 🔐 Security and developer tooling
+- 🏗 Backend and systems engineering
+- 🖥️ Desktop applications
+- 🔓 Open-source software
 
-If you're building something exciting, feel free to reach out.
-
----
+If you're building something interesting, exploring a difficult engineering problem, or want to contribute to one of my projects, feel free to reach out.
 
 <div align="center">
 
 ### Thanks for visiting!
 
-⭐ If you find any of my projects useful, consider giving them a star.
+⭐ If you find something useful in my projects, consider giving the repository a star.
+
+**[Explore all repositories →](https://github.com/Amanbig?tab=repositories)**
 
 </div>
